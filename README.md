@@ -73,52 +73,7 @@ The Financial News and Stock Price Integration Dataset (FNSPID) contains:
 - **Interim Report**: Summary of initial findings and partial progress (max 3 pages).
 - **Final Report**: Detailed analysis and insights (up to 10 pages).
 
-## Installation
 
-1. **Clone the Repository**:
-
-   ```bash
-   git clone https://github.com/dagiteferi/Financial-News-Sentiment-Stock-Market-Correlation-Analysis.git
-   cd Financial-News-Sentiment-Stock-Market-Correlation-Analysis
-
-   ```
-
-2. **Install Dependencies**:
-
-```bash
-pip install -r requirements.txt
-```
-
-** Contributing**
-Contributions are welcome! Please fork the repository and use a feature branch. Pull requests are warmly welcomed.
-
-### How to Contribute
-
-1. **Fork the repository**: Click the "Fork" button at the top right of this page to create your own copy of the repository.
-2. **Clone your fork**: Clone the forked repository to your local machine.
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
-   ```
-3. **Create a new branch**: Create a new branch for your feature or bugfix.
-   ```bash
-   git checkout -b feature/AmazingFeature
-   ```
-4. **Make your changes**: Implement your feature or fix the bug. Ensure your code adheres to the project's coding standards and style.
-5. **Commit your changes**: Commit your changes with a descriptive message.
-   ```bash
-   git add .
-   git commit -m 'Add some AmazingFeature'
-   ```
-6. **Push your branch**: Push your branch to your forked repository.
-   ```bash
-   git push origin feature/AmazingFeature
-   ```
-7. **Create a Pull Request**: Go to the repository on GitHub, switch to your branch, and click the `New Pull Request` button. Provide a detailed description of your changes and submit the pull request.
-
-**License**
-Distributed under the MIT License. See LICENSE for more information.
-
-=======
 
 ## Task 1 Overview
 
